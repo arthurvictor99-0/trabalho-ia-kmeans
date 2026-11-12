@@ -1,0 +1,301 @@
+cliente_id,recencia_dias,frequencia_compras,ticket_medio_reais,perfil_gerador,grupo,perfil
+C0001,103.0,4.0,22.95,inativo,1,Inativos / em risco
+C0002,84.0,3.0,48.09,inativo,1,Inativos / em risco
+C0003,37.0,1.0,301.98,alto_valor_ocasional,2,Alto valor ocasional
+C0004,6.0,12.0,105.57,frequente,0,Frequentes
+C0005,133.0,1.0,55.53,inativo,1,Inativos / em risco
+C0006,48.0,2.0,26.43,inativo,1,Inativos / em risco
+C0007,54.0,3.0,385.53,alto_valor_ocasional,2,Alto valor ocasional
+C0008,50.0,5.0,379.68,alto_valor_ocasional,2,Alto valor ocasional
+C0009,3.0,17.0,116.99,frequente,0,Frequentes
+C0010,42.0,4.0,334.08,alto_valor_ocasional,2,Alto valor ocasional
+C0011,125.0,1.0,76.41,inativo,1,Inativos / em risco
+C0012,22.0,12.0,134.89,frequente,0,Frequentes
+C0013,126.0,1.0,57.52,inativo,1,Inativos / em risco
+C0014,14.0,9.0,114.15,frequente,0,Frequentes
+C0015,42.0,4.0,422.99,alto_valor_ocasional,2,Alto valor ocasional
+C0016,177.0,3.0,38.08,inativo,1,Inativos / em risco
+C0017,180.0,2.0,57.63,inativo,1,Inativos / em risco
+C0018,98.0,4.0,30.23,inativo,1,Inativos / em risco
+C0019,14.0,1.0,411.85,alto_valor_ocasional,2,Alto valor ocasional
+C0020,56.0,4.0,387.73,alto_valor_ocasional,2,Alto valor ocasional
+C0021,16.0,11.0,68.53,frequente,0,Frequentes
+C0022,13.0,3.0,344.97,alto_valor_ocasional,2,Alto valor ocasional
+C0023,113.0,2.0,51.87,inativo,1,Inativos / em risco
+C0024,114.0,1.0,41.87,inativo,1,Inativos / em risco
+C0025,51.0,2.0,423.13,alto_valor_ocasional,2,Alto valor ocasional
+C0026,7.0,21.0,95.85,frequente,0,Frequentes
+C0027,85.0,2.0,113.695,inativo,1,Inativos / em risco
+C0028,45.0,1.0,55.15,inativo,1,Inativos / em risco
+C0029,58.0,7.0,472.33,alto_valor_ocasional,2,Alto valor ocasional
+C0030,169.0,3.0,52.25,inativo,1,Inativos / em risco
+C0031,5.0,14.0,85.33,frequente,0,Frequentes
+C0032,64.0,1.0,384.33,alto_valor_ocasional,2,Alto valor ocasional
+C0033,6.0,9.0,72.45,frequente,0,Frequentes
+C0034,9.0,11.0,126.62,frequente,0,Frequentes
+C0035,120.0,2.0,69.56,inativo,1,Inativos / em risco
+C0036,33.0,7.0,436.4,alto_valor_ocasional,2,Alto valor ocasional
+C0037,10.0,15.0,118.11,frequente,0,Frequentes
+C0038,17.0,18.0,104.32,frequente,0,Frequentes
+C0039,18.0,24.0,132.8,frequente,0,Frequentes
+C0040,15.0,14.0,65.58,frequente,0,Frequentes
+C0041,11.0,15.0,149.62,frequente,0,Frequentes
+C0042,9.0,11.0,134.11,frequente,0,Frequentes
+C0043,105.0,2.0,74.4,inativo,1,Inativos / em risco
+C0044,0.0,9.0,65.53,frequente,0,Frequentes
+C0045,13.0,14.0,161.62,frequente,0,Frequentes
+C0046,16.0,12.0,132.48,frequente,0,Frequentes
+C0047,108.0,1.0,73.52,inativo,1,Inativos / em risco
+C0048,156.0,1.0,61.15,inativo,1,Inativos / em risco
+C0049,35.0,1.0,463.13,alto_valor_ocasional,2,Alto valor ocasional
+C0050,131.0,3.0,28.84,inativo,1,Inativos / em risco
+C0051,43.0,2.0,466.94,alto_valor_ocasional,2,Alto valor ocasional
+C0052,44.0,5.0,459.26,alto_valor_ocasional,2,Alto valor ocasional
+C0053,51.0,3.0,64.9,inativo,1,Inativos / em risco
+C0054,17.0,13.0,99.26,frequente,0,Frequentes
+C0055,71.0,3.0,28.52,inativo,1,Inativos / em risco
+C0056,97.0,2.0,55.84,inativo,1,Inativos / em risco
+C0057,5.0,14.0,100.06,frequente,0,Frequentes
+C0058,9.0,22.0,120.86,frequente,0,Frequentes
+C0059,54.0,4.0,360.98,alto_valor_ocasional,2,Alto valor ocasional
+C0060,10.0,10.0,179.83,frequente,0,Frequentes
+C0061,154.0,2.0,32.28,inativo,1,Inativos / em risco
+C0062,19.0,11.0,71.11,frequente,0,Frequentes
+C0063,13.0,13.0,117.03,frequente,0,Frequentes
+C0064,61.0,6.0,303.19,alto_valor_ocasional,2,Alto valor ocasional
+C0065,47.0,3.0,435.65,alto_valor_ocasional,2,Alto valor ocasional
+C0066,27.0,4.0,113.24,frequente,0,Frequentes
+C0067,21.0,11.0,135.7,frequente,0,Frequentes
+C0068,77.0,1.0,35.78,inativo,1,Inativos / em risco
+C0069,10.0,7.0,106.47,frequente,0,Frequentes
+C0070,40.0,3.0,429.05,alto_valor_ocasional,2,Alto valor ocasional
+C0071,56.0,2.0,382.52,alto_valor_ocasional,2,Alto valor ocasional
+C0072,69.0,10.0,319.86,alto_valor_ocasional,2,Alto valor ocasional
+C0073,156.0,3.0,54.77,inativo,1,Inativos / em risco
+C0074,47.0,3.0,299.34,alto_valor_ocasional,2,Alto valor ocasional
+C0075,97.0,1.0,313.11,alto_valor_ocasional,2,Alto valor ocasional
+C0076,110.0,1.0,75.38,inativo,1,Inativos / em risco
+C0077,9.0,20.0,106.07,frequente,0,Frequentes
+C0078,4.0,18.0,137.85,frequente,0,Frequentes
+C0079,10.0,15.0,142.68,frequente,0,Frequentes
+C0080,99.0,1.0,40.05,inativo,1,Inativos / em risco
+C0081,48.0,4.0,410.28,alto_valor_ocasional,2,Alto valor ocasional
+C0082,0.0,2.0,268.5,alto_valor_ocasional,2,Alto valor ocasional
+C0083,12.0,13.0,135.33,frequente,0,Frequentes
+C0084,61.0,5.0,387.13,alto_valor_ocasional,2,Alto valor ocasional
+C0085,10.0,12.0,121.78,frequente,0,Frequentes
+C0086,30.0,2.0,413.96,alto_valor_ocasional,2,Alto valor ocasional
+C0087,70.0,6.0,340.96,alto_valor_ocasional,2,Alto valor ocasional
+C0088,6.0,17.0,92.17,frequente,0,Frequentes
+C0089,6.0,14.0,154.44,frequente,0,Frequentes
+C0090,18.0,8.0,105.42,frequente,0,Frequentes
+C0091,45.0,8.0,363.17,alto_valor_ocasional,2,Alto valor ocasional
+C0092,56.0,4.0,403.79,alto_valor_ocasional,2,Alto valor ocasional
+C0093,18.0,14.0,107.93,frequente,0,Frequentes
+C0094,109.0,3.0,57.92,inativo,1,Inativos / em risco
+C0095,6.0,9.0,125.73,frequente,0,Frequentes
+C0096,15.0,21.0,113.695,frequente,0,Frequentes
+C0097,78.0,6.0,448.16,alto_valor_ocasional,2,Alto valor ocasional
+C0098,44.0,1.0,304.96,alto_valor_ocasional,2,Alto valor ocasional
+C0099,148.0,4.0,23.01,inativo,1,Inativos / em risco
+C0100,9.0,6.0,149.83,frequente,0,Frequentes
+C0101,113.0,3.0,113.695,inativo,1,Inativos / em risco
+C0102,11.0,18.0,150.61,frequente,0,Frequentes
+C0103,9.0,21.0,149.29,frequente,0,Frequentes
+C0104,58.0,3.0,421.88,alto_valor_ocasional,2,Alto valor ocasional
+C0105,125.0,2.0,51.08,inativo,1,Inativos / em risco
+C0106,125.0,4.0,68.13,inativo,1,Inativos / em risco
+C0107,70.0,2.0,411.13,alto_valor_ocasional,2,Alto valor ocasional
+C0108,18.0,12.0,116.07,frequente,0,Frequentes
+C0109,33.0,8.0,459.11,alto_valor_ocasional,2,Alto valor ocasional
+C0110,3.0,14.0,142.02,frequente,0,Frequentes
+C0111,52.0,2.0,365.72,alto_valor_ocasional,2,Alto valor ocasional
+C0112,151.0,3.0,79.45,inativo,1,Inativos / em risco
+C0113,9.0,15.0,93.98,frequente,0,Frequentes
+C0114,179.0,6.0,29.62,inativo,1,Inativos / em risco
+C0115,95.0,2.0,37.27,inativo,1,Inativos / em risco
+C0116,45.0,4.0,379.9,alto_valor_ocasional,2,Alto valor ocasional
+C0117,17.0,3.0,375.78,alto_valor_ocasional,2,Alto valor ocasional
+C0118,110.0,1.0,74.52,inativo,1,Inativos / em risco
+C0119,32.0,3.0,459.36,alto_valor_ocasional,2,Alto valor ocasional
+C0120,117.0,1.0,62.12,inativo,1,Inativos / em risco
+C0121,8.0,18.0,102.02,frequente,0,Frequentes
+C0122,48.0,8.0,380.6,alto_valor_ocasional,2,Alto valor ocasional
+C0123,22.0,4.0,416.38,alto_valor_ocasional,2,Alto valor ocasional
+C0124,38.0,3.0,282.13,alto_valor_ocasional,2,Alto valor ocasional
+C0125,62.0,3.0,388.28,alto_valor_ocasional,2,Alto valor ocasional
+C0126,121.0,1.0,60.78,inativo,1,Inativos / em risco
+C0127,6.0,9.0,118.29,frequente,0,Frequentes
+C0128,44.0,3.0,326.64,alto_valor_ocasional,2,Alto valor ocasional
+C0129,47.0,7.0,387.14,alto_valor_ocasional,2,Alto valor ocasional
+C0130,138.0,1.0,15.0,inativo,1,Inativos / em risco
+C0131,58.0,4.0,390.49,alto_valor_ocasional,2,Alto valor ocasional
+C0132,21.0,7.0,113.695,alto_valor_ocasional,0,Frequentes
+C0133,66.0,4.0,271.95,alto_valor_ocasional,2,Alto valor ocasional
+C0134,85.0,2.0,449.03,alto_valor_ocasional,2,Alto valor ocasional
+C0135,88.0,3.0,65.39,inativo,1,Inativos / em risco
+C0136,171.0,4.0,42.79,inativo,1,Inativos / em risco
+C0137,40.0,2.0,316.1,alto_valor_ocasional,2,Alto valor ocasional
+C0138,76.0,4.0,465.84,alto_valor_ocasional,2,Alto valor ocasional
+C0139,55.0,3.0,414.62,alto_valor_ocasional,2,Alto valor ocasional
+C0140,17.0,13.0,92.87,frequente,0,Frequentes
+C0141,42.0,5.0,343.05,alto_valor_ocasional,2,Alto valor ocasional
+C0142,58.0,3.0,348.05,alto_valor_ocasional,2,Alto valor ocasional
+C0143,52.0,3.0,490.54,alto_valor_ocasional,2,Alto valor ocasional
+C0144,56.0,2.0,427.42,alto_valor_ocasional,2,Alto valor ocasional
+C0145,62.0,3.0,48.42,inativo,1,Inativos / em risco
+C0146,138.0,1.0,29.41,inativo,1,Inativos / em risco
+C0147,29.0,5.0,342.36,alto_valor_ocasional,2,Alto valor ocasional
+C0148,13.0,19.0,83.36,frequente,0,Frequentes
+C0149,15.0,12.0,96.27,frequente,0,Frequentes
+C0150,9.0,12.0,55.07,frequente,0,Frequentes
+C0151,143.0,1.0,54.23,inativo,1,Inativos / em risco
+C0152,35.0,7.0,227.39,alto_valor_ocasional,2,Alto valor ocasional
+C0153,65.0,6.0,34.06,inativo,1,Inativos / em risco
+C0154,40.0,1.0,576.64,alto_valor_ocasional,2,Alto valor ocasional
+C0155,93.0,1.0,76.16,inativo,1,Inativos / em risco
+C0156,99.0,2.0,46.8,inativo,1,Inativos / em risco
+C0157,55.0,2.0,43.57,inativo,1,Inativos / em risco
+C0158,18.0,11.0,115.93,frequente,0,Frequentes
+C0159,63.0,4.0,354.71,alto_valor_ocasional,2,Alto valor ocasional
+C0160,15.0,18.0,91.85,frequente,0,Frequentes
+C0161,104.0,1.0,41.89,inativo,1,Inativos / em risco
+C0162,58.0,3.0,338.94,alto_valor_ocasional,2,Alto valor ocasional
+C0163,12.0,15.0,139.99,frequente,0,Frequentes
+C0164,20.0,10.0,86.18,frequente,0,Frequentes
+C0165,15.0,17.0,158.13,frequente,0,Frequentes
+C0166,45.0,2.0,481.78,alto_valor_ocasional,2,Alto valor ocasional
+C0167,122.0,2.0,83.63,inativo,1,Inativos / em risco
+C0168,95.0,2.0,59.29,inativo,1,Inativos / em risco
+C0169,33.0,3.0,360.63,alto_valor_ocasional,2,Alto valor ocasional
+C0170,16.0,15.0,115.9,frequente,0,Frequentes
+C0171,2.0,15.0,65.69,frequente,0,Frequentes
+C0172,122.0,4.0,41.96,inativo,1,Inativos / em risco
+C0173,180.0,6.0,30.04,inativo,1,Inativos / em risco
+C0174,16.0,9.0,111.63,frequente,0,Frequentes
+C0175,15.0,8.0,122.84,frequente,0,Frequentes
+C0176,80.0,1.0,71.97,inativo,1,Inativos / em risco
+C0177,36.0,6.0,483.04,alto_valor_ocasional,2,Alto valor ocasional
+C0178,16.0,19.0,103.85,frequente,0,Frequentes
+C0179,119.0,6.0,23.23,inativo,1,Inativos / em risco
+C0180,57.0,1.0,369.24,alto_valor_ocasional,2,Alto valor ocasional
+C0181,95.0,5.0,53.11,inativo,1,Inativos / em risco
+C0182,14.0,17.0,121.05,frequente,0,Frequentes
+C0183,136.0,1.0,50.46,inativo,1,Inativos / em risco
+C0184,155.0,3.0,64.58,inativo,1,Inativos / em risco
+C0185,48.0,9.0,423.38,alto_valor_ocasional,2,Alto valor ocasional
+C0186,136.0,5.0,77.76,inativo,1,Inativos / em risco
+C0187,122.0,3.0,83.4,inativo,1,Inativos / em risco
+C0188,34.0,4.0,113.695,alto_valor_ocasional,0,Frequentes
+C0189,15.0,21.0,143.44,frequente,0,Frequentes
+C0190,11.0,14.0,123.19,frequente,0,Frequentes
+C0191,10.0,6.0,39.99,frequente,0,Frequentes
+C0192,75.0,2.0,374.59,alto_valor_ocasional,2,Alto valor ocasional
+C0193,128.0,4.0,61.22,inativo,1,Inativos / em risco
+C0194,125.0,3.0,50.74,inativo,1,Inativos / em risco
+C0195,114.0,1.0,25.82,inativo,1,Inativos / em risco
+C0196,17.0,15.0,121.5,frequente,0,Frequentes
+C0197,84.0,2.0,51.33,inativo,1,Inativos / em risco
+C0198,116.0,1.0,60.19,inativo,1,Inativos / em risco
+C0199,15.0,14.0,49.89,frequente,0,Frequentes
+C0200,122.0,2.0,40.3,inativo,1,Inativos / em risco
+C0201,0.0,10.0,142.05,frequente,0,Frequentes
+C0202,45.0,6.0,448.17,alto_valor_ocasional,2,Alto valor ocasional
+C0203,8.0,9.0,61.93,frequente,0,Frequentes
+C0204,118.0,2.0,40.54,inativo,1,Inativos / em risco
+C0205,52.0,8.0,369.41,alto_valor_ocasional,2,Alto valor ocasional
+C0206,118.0,2.0,44.53,inativo,1,Inativos / em risco
+C0207,105.0,4.0,61.75,inativo,1,Inativos / em risco
+C0208,35.0,2.0,408.78,alto_valor_ocasional,2,Alto valor ocasional
+C0209,13.0,16.0,89.65,frequente,0,Frequentes
+C0210,47.0,2.0,283.59,alto_valor_ocasional,2,Alto valor ocasional
+C0211,50.0,2.0,417.98,alto_valor_ocasional,2,Alto valor ocasional
+C0212,134.0,1.0,54.69,inativo,1,Inativos / em risco
+C0213,12.0,8.0,84.1,frequente,0,Frequentes
+C0214,3.0,21.0,112.76,frequente,0,Frequentes
+C0215,144.0,2.0,58.51,inativo,1,Inativos / em risco
+C0216,17.0,5.0,101.45,frequente,0,Frequentes
+C0217,13.0,15.0,131.06,frequente,0,Frequentes
+C0218,170.0,3.0,68.71,inativo,1,Inativos / em risco
+C0219,94.0,5.0,395.88,alto_valor_ocasional,2,Alto valor ocasional
+C0220,17.0,16.0,40.7,frequente,0,Frequentes
+C0221,53.0,4.0,428.9,alto_valor_ocasional,2,Alto valor ocasional
+C0222,180.0,1.0,60.83,inativo,1,Inativos / em risco
+C0223,164.0,4.0,52.38,inativo,1,Inativos / em risco
+C0224,23.0,7.0,363.95,alto_valor_ocasional,2,Alto valor ocasional
+C0225,11.0,15.0,135.25,frequente,0,Frequentes
+C0226,85.0,4.0,49.38,inativo,1,Inativos / em risco
+C0227,56.0,4.0,453.19,alto_valor_ocasional,2,Alto valor ocasional
+C0228,7.0,12.0,124.24,frequente,0,Frequentes
+C0229,178.0,3.0,26.79,inativo,1,Inativos / em risco
+C0230,117.0,1.0,43.69,inativo,1,Inativos / em risco
+C0231,17.0,16.0,67.62,frequente,0,Frequentes
+C0232,82.0,2.0,42.34,inativo,1,Inativos / em risco
+C0233,152.0,1.0,60.1,inativo,1,Inativos / em risco
+C0234,129.0,3.0,75.39,inativo,1,Inativos / em risco
+C0235,62.0,3.0,404.64,alto_valor_ocasional,2,Alto valor ocasional
+C0236,15.0,17.0,106.25,frequente,0,Frequentes
+C0237,14.0,21.0,116.88,frequente,0,Frequentes
+C0238,0.0,15.0,99.72,frequente,0,Frequentes
+C0239,101.0,2.0,64.15,inativo,1,Inativos / em risco
+C0240,48.0,1.0,113.695,inativo,1,Inativos / em risco
+C0241,117.0,3.0,107.46,inativo,1,Inativos / em risco
+C0242,139.0,1.0,79.55,inativo,1,Inativos / em risco
+C0243,45.0,4.0,397.06,alto_valor_ocasional,2,Alto valor ocasional
+C0244,14.0,12.0,123.78,frequente,0,Frequentes
+C0245,127.0,4.0,47.94,inativo,1,Inativos / em risco
+C0246,67.0,8.0,334.89,alto_valor_ocasional,2,Alto valor ocasional
+C0247,20.0,2.0,438.82,alto_valor_ocasional,2,Alto valor ocasional
+C0248,125.0,4.0,34.36,inativo,1,Inativos / em risco
+C0249,91.0,1.0,61.8,inativo,1,Inativos / em risco
+C0250,19.0,12.0,134.41,frequente,0,Frequentes
+C0251,53.0,8.0,232.44,alto_valor_ocasional,2,Alto valor ocasional
+C0252,10.0,13.0,98.19,frequente,0,Frequentes
+C0253,60.0,3.0,387.68,alto_valor_ocasional,2,Alto valor ocasional
+C0254,5.0,13.0,135.4,frequente,0,Frequentes
+C0255,76.0,1.0,293.08,alto_valor_ocasional,2,Alto valor ocasional
+C0256,87.0,2.0,408.69,alto_valor_ocasional,2,Alto valor ocasional
+C0257,12.0,11.0,88.86,frequente,0,Frequentes
+C0258,15.0,13.0,78.78,frequente,0,Frequentes
+C0259,119.0,1.0,64.92,inativo,1,Inativos / em risco
+C0260,16.0,15.0,61.96,frequente,0,Frequentes
+C0261,11.0,17.0,119.86,frequente,0,Frequentes
+C0262,2.0,12.0,134.62,frequente,0,Frequentes
+C0263,89.0,1.0,52.85,inativo,1,Inativos / em risco
+C0264,20.0,23.0,78.24,frequente,0,Frequentes
+C0265,15.0,9.0,90.37,frequente,0,Frequentes
+C0266,62.0,5.0,351.42,alto_valor_ocasional,2,Alto valor ocasional
+C0267,104.0,4.0,72.53,inativo,1,Inativos / em risco
+C0268,49.0,1.0,551.16,alto_valor_ocasional,2,Alto valor ocasional
+C0269,104.0,1.0,33.04,inativo,1,Inativos / em risco
+C0270,48.0,3.0,15.0,inativo,1,Inativos / em risco
+C0271,9.0,11.0,125.64,frequente,0,Frequentes
+C0272,14.0,15.0,104.61,frequente,0,Frequentes
+C0273,75.0,4.0,392.63,alto_valor_ocasional,2,Alto valor ocasional
+C0274,36.0,2.0,471.25,alto_valor_ocasional,2,Alto valor ocasional
+C0275,58.0,4.0,64.05,inativo,1,Inativos / em risco
+C0276,71.0,7.0,285.09,alto_valor_ocasional,2,Alto valor ocasional
+C0277,79.0,4.0,425.73,alto_valor_ocasional,2,Alto valor ocasional
+C0278,6.0,20.0,50.21,frequente,0,Frequentes
+C0279,17.0,14.0,125.9,frequente,0,Frequentes
+C0280,48.0,4.0,15.14,inativo,1,Inativos / em risco
+C0281,68.0,4.0,63.15,inativo,1,Inativos / em risco
+C0282,7.0,11.0,149.87,frequente,0,Frequentes
+C0283,22.0,5.0,480.47,alto_valor_ocasional,2,Alto valor ocasional
+C0284,180.0,1.0,41.32,inativo,1,Inativos / em risco
+C0285,35.0,6.0,484.12,alto_valor_ocasional,2,Alto valor ocasional
+C0286,102.0,1.0,54.01,inativo,1,Inativos / em risco
+C0287,23.0,6.0,481.16,alto_valor_ocasional,2,Alto valor ocasional
+C0288,54.0,2.0,410.63,alto_valor_ocasional,2,Alto valor ocasional
+C0289,66.0,2.0,366.22,alto_valor_ocasional,2,Alto valor ocasional
+C0290,6.0,9.0,121.5,frequente,0,Frequentes
+C0291,12.0,17.0,77.91,frequente,0,Frequentes
+C0292,166.0,1.0,68.89,inativo,1,Inativos / em risco
+C0293,43.0,1.0,313.16,alto_valor_ocasional,2,Alto valor ocasional
+C0294,89.0,2.0,15.0,inativo,1,Inativos / em risco
+C0295,11.0,9.0,110.34,frequente,0,Frequentes
+C0296,7.0,1.0,324.38,alto_valor_ocasional,2,Alto valor ocasional
+C0297,4.0,17.0,84.88,frequente,0,Frequentes
+C0298,69.0,6.0,354.49,alto_valor_ocasional,2,Alto valor ocasional
+C0299,121.0,4.0,56.41,inativo,1,Inativos / em risco
+C0300,85.0,2.0,402.12,alto_valor_ocasional,2,Alto valor ocasional
